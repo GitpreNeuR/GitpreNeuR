@@ -1,5 +1,5 @@
 # 💫 About Me:
-I recently completed my Master's at Chitkara University, following completion of<br>my undergraduate studies in Computer Science. My passion lies in web<br>development, app development and full-stack development, with a primary focus on front-end<br>development. I believe in the importance of smart budgeting across the entire<br>organization, involving all employees in the process to ensure that the benefits<br>can be shared by all members.<br><br>🔭 I’m currently working on an Android Streaming Application<br>🌱 I’m currently learning React Native, AWS,Wireframing, Framer<br>
+I recently completed my Master's at Chitkara University, following completion of<br>my undergraduate studies in Computer Science. My passion lies in web development, app development and full-stack development, with a primary focus on front-end development. I believe in the importance of smart budgeting across the entire organization, involving all employees in the process to ensure that the benefits<br>can be shared by all members.<br><br>🔭 I’m currently working on an Android Streaming Application<br>🌱 I’m currently learning React Native, AWS,Wireframing, Framer<br>
 
 
 ## 🌐 Socials:
